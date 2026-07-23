@@ -1,0 +1,17 @@
+## Nutrition Information
+Serving per package (insert number of servings) Serving size: g (or mL or other units as appropriate)
+|               | Qty perServing   | Qty per 100g (or mi)   |
+|---------------|------------------|------------------------|
+| Energy        | kJ (Cal)         | kJ (Cal)               |
+| —— Protein    | g                | g                      |
+| Total fat     | g                | g                      |
+| Saturated fat | g                | q                      |
+| Carbohydrate  | ;                | ;                      |
+| Sugar         | g                | g                      |
+| Sodium        | mg (mmol)        | mg (mmol)              |
+al ll
+## INGREDIENTS:
+Whole grain wheat, corn, rolled oats, palm oil, aspartame, mango pieces [mango, mango juice, humectant (glycerol), tartrazine, natural mango flavour], royal jelly, walnuts, minerals (Calcium carbonate, iron sulphate), vitamins (Vitamin C, Vitamin B6, Folic acid, Vitamin B12) and spices
+## PHENYLKETONURICS:
+CONTAINS PHENYLALANINE
+WARNING -THE PRODUCT MAY NOT BE SUITABLE FOR ASTHMA AND ALLERGY SUFFERERS
