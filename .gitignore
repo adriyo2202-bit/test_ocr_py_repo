@@ -1,0 +1,3 @@
+*.gguf
+*.log
+Source_Code/models/
